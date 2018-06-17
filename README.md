@@ -1,1 +1,2 @@
 # android_scale_arc_processbar
+这是Android自定义的带刻度圆弧进度条。
